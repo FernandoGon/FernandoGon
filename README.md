@@ -1,6 +1,6 @@
 ### Hello, welcome to my profile! Great to have you here! :octocat:
 
-💼 I currently work with process control and improvements aimed at digital transformation.
+💼 I currently work with process control and digital transformation technologies.
 
 💻 Technologies: Python, R, SQL, Java, IoT, IA (Machine Learning)
 
