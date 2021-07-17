@@ -1,4 +1,10 @@
-### Hello, welcome to my profile! Great to have you here!:wink::man_technologist:
+### Hello, welcome to my profile! Great to have you here!:octocat:
+
+💼 I currently work with process control and improvements aimed at digital transformation.
+
+💻 Technologies: Python, R, SQL, Java, IoT, IA (Machine Learning)
+
+✒️ Technology moves the world. - Steve Jobs.
 
 <!--
 **FernandoGon/FernandoGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
