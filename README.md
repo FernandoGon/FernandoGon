@@ -8,7 +8,7 @@
 
 ✒️ Technology moves the world. - Steve Jobs.
 
-
+ ![Snake animation](https://github.com/fernandogon/fernandogon/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
