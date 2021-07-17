@@ -2,7 +2,7 @@
 
 💼 I currently work with process control and digital transformation technologies.
 
-💻 Technologies: Python, R, SQL, Java, IoT, IA (Machine Learning)
+💻 Technologies: Python, R, SQL, Java, IoT, IA (Machine Learning).
 
 ✒️ Technology moves the world. - Steve Jobs.
 
