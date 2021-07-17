@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/FernandoGon/FernandoGon/blob/07bfc52e5fbdf81b8f3d83e4c9843d309d83cf66/img.png" width="300"/>
+<img align="right" src="https://github.com/FernandoGon/FernandoGon/blob/deff0063e8cff8a18363870e8f9a7ac6d18da101/data_science.png" width="300"/>
 
 ### Hello, welcome to my profile! Great to have you here! :octocat:
 
