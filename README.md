@@ -1,4 +1,4 @@
-### Hello, welcome to my profile! Great to have you here!:octocat:
+### Hello, welcome to my profile! Great to have you here! :octocat:
 
 💼 I currently work with process control and improvements aimed at digital transformation.
 
