@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/FernandoGon/FernandoGon/main/data_science.png" width="350"/>
 
-### Hello, welcome to my profile! Great to have you here! :octocat:
+### Hello, welcome to my profile! Great to have you here! :octocat:/n
 
 
 💼 I currently work with process control and digital transformation technologies.
